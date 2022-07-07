@@ -65,7 +65,7 @@ Both files consist of "survey_results_public," a file containing the respondent'
 
 # Results
 
-The main findings of the code can be found in the post available here.
+The main findings of the code can be found in the post available [here](https://medium.com/@m.a.alshammari2000/the-effect-of-ide-on-developers-choices-11f157b327af).
 
 ---
 
